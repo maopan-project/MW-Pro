@@ -1,0 +1,6 @@
+export enum UIType {
+    MAIN_UI = "MAIN_UI",
+    SETTING_UI = "SETTING_UI",
+    COMMON_TIPS = "COMMON_TIPS",
+    ABILITY_RELEASE_UI = "ABILITY_RELEASE_UI"
+}

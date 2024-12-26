@@ -1,0 +1,1 @@
+type TClass<T> = new (...params) => T;
